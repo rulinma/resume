@@ -1,4 +1,4 @@
-# 关于信息
+# 个人介绍
 <https://about.rulinma.com>
 
 ### 基础入门
