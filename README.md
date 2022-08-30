@@ -6,7 +6,7 @@
 ### 一图胜前言
 
 
-![Alt text](https://github.com/rulinma/resume/blob/main/images/cv.png)
+![https://github.com/rulinma/resume/blob/main/images/cv.png](https://github.com/rulinma/resume/blob/main/images/cv.png)
 
 
 ### 附录
