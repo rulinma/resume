@@ -6,10 +6,10 @@
 ### 一图胜前言
 
 
-<!--![https://github.com/rulinma/resume/blob/main/images/cv.png](https://github.com/rulinma/resume/blob/main/images/cv.png=192X102)
--->
-<img src="https://github.com/rulinma/resume/blob/main/images/cv.png" width="640" height=360 />
+![https://github.com/rulinma/resume/blob/main/images/cv.png](https://github.com/rulinma/resume/blob/main/images/cv.png=192X102)
 
+<!--<img src="https://github.com/rulinma/resume/blob/main/images/cv.png" width="640" height=360 />
+-->
 ### 附录
 
 * 专业技术经验总结【不定期更新】：<https://it.rulinma.com>
