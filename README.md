@@ -4,7 +4,7 @@
 
 ### 一图胜前言
 
-<figure><img src=".gitbook/assets/cv.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/cv.jpg" alt=""><figcaption></figcaption></figure>
 
 ### 附录
 
