@@ -11,3 +11,4 @@
 
 
 
+![Alt text](https://github.com/rulinma/resume/blob/main/images/cv.png)
