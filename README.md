@@ -2,10 +2,6 @@
 
 [https://about.rulinma.com](https://about.rulinma.com)
 
-### 一图胜前言
-
-<figure><img src=".gitbook/assets/cv.jpg" alt="https://github.com/rulinma/resume/blob/main/images/cv.png"><figcaption><p><a href="images/cv.png">https://github.com/rulinma/resume/blob/main/images/cv.png</a></p></figcaption></figure>
-
 ### 附录
 
 * 专业技术经验总结【不定期更新】：[https://it.rulinma.com](https://it.rulinma.com)
