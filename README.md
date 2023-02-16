@@ -1,23 +1,29 @@
 # 个人介绍
 
-[https://about.rulinma.com](https://about.rulinma.com)
+* 姓名
+  * 马如林
 
-## 感悟
+* 职业
+  * 程序员
 
-* 创造价值（赚钱的基础，甚至是活着的意义）
-* 身体是革命的本钱（身体是1，其他是0）
-* 思路决定出路（方向错了，越努力离目标越远）
-* 程序就是逻辑（人类智力的一部分而已）
-* 少就是多（专业、专注，慢就是快）
-* 自信自强（掌握你能掌握的）
-* 花各有季（各有安排）
-* 生产力（生产力高低决定了是否有可能赚大钱，计算机和互联网有这个优势，你仔细想想）
-* 垄断（才能获取超额利润，好的产品都追求垄断地位）
-* 做难事必有得（做难而正确的事，而不是容易简单的事）
-* 创新才能创业
+* 学校
+  * 桂林电子科技大学计算机本硕
 
-## 附录
+* 证书
+  * 美国PMI认证PMP
+  * Oracle认证Java程序员
+  * 信息系统项目管理师
+  * 软件设计师
+  * CET6（英语6级）
 
-* 专业技术经验总结【不定期更新】：[https://it.rulinma.com](https://it.rulinma.com)
-* 交友地址： [https://github.com/rulinma](https://github.com/rulinma)
-* 中国最大程序员网站博客：[https://rulinma.blog.csdn.net](https://rulinma.blog.csdn.net)
+* 产品
+  * [AI记单词](https://www.xianglesong.com)
+
+* 项目
+  * [知识星球的程序员学习和实战指南](https://t.zsxq.com/0b9G5yduM)
+
+* 交友
+  * [https://github.com/rulinma](https://github.com/rulinma)
+
+* 微信号
+  * rulinma
