@@ -6,6 +6,18 @@
 * 职业
   * 程序员
 
+* 技术
+  * [https://github.com/rulinma](https://github.com/rulinma)
+
+* 产品
+  * [AI记单词](https://www.xianglesong.com)
+
+* 项目
+  * [知识星球的程序员学习和实战指南](https://t.zsxq.com/0b9G5yduM)
+
+* 微信号
+  * rulinma
+
 * 学校
   * 桂林电子科技大学计算机本硕
 
@@ -15,15 +27,3 @@
   * 信息系统项目管理师
   * 软件设计师
   * CET6（英语6级）
-
-* 产品
-  * [AI记单词](https://www.xianglesong.com)
-
-* 项目
-  * [知识星球的程序员学习和实战指南](https://t.zsxq.com/0b9G5yduM)
-
-* 交友
-  * [https://github.com/rulinma](https://github.com/rulinma)
-
-* 微信号
-  * rulinma
