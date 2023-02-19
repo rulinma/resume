@@ -26,5 +26,5 @@
   * [信息系统项目管理师](images/itmanager.png)
   * [Oracle认证Java程序员](images/ocjp.jpg)
   * [PMI认证PMP](images/pmp.jpg)
-  * [CET6（英语6级）](images/cet6.JPG)
+  * [CET6（大学英语6级证书）](images/cet6.JPG)
     * 大学毕业工作期间在南京用社会身份报名考的，本科也是桂电。
