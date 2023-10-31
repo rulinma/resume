@@ -6,8 +6,8 @@
 * 职业
   * 程序员
 
-* 项目
-  * [上海中考指南](https://wx.zsxq.com/dweb2/index/group/51112488488284)
+* 知识星球
+  * [上海中考指南](https://t.zsxq.com/13QYmZaXE)
 
 * 技术
   * [https://github.com/rulinma](https://github.com/rulinma)
