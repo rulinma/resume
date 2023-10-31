@@ -6,14 +6,14 @@
 * 职业
   * 程序员
 
+* 项目
+  * [上海中考指南](https://wx.zsxq.com/dweb2/index/group/51112488488284)
+
 * 技术
   * [https://github.com/rulinma](https://github.com/rulinma)
 
 * 产品
-  * [AI记单词](https://www.xianglesong.com)
-
-* 项目
-  * [知识星球的程序员学习和实战指南](https://t.zsxq.com/0b9G5yduM)
+  * [AI学单词](https://www.aixuedanci.com)
 
 * 微信号
   * rulinma
